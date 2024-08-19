@@ -7,25 +7,20 @@ using MonoDreams.State;
 
 namespace MonoDreams.System;
 
-public sealed class PositionSystem : AEntitySetSystem<GameState>
+public sealed class PositionSystem<TPosition>(World world, IParallelRunner runner)
+    : AEntitySetSystem<GameState>(world.GetEntities().With<TPosition>().AsSet(), runner)
+    where TPosition : Position
 {
-    private readonly World _world;
-
-    public PositionSystem(World world, IParallelRunner runner)
-        : base(world.GetEntities().With((in Position p) => p.HasUpdates).AsSet(), runner)
-    {
-        _world = world;
-    }
-
     protected override void Update(GameState state, in Entity entity)
     {
-        ref var position = ref entity.Get<Position>();
+        ref var position = ref entity.Get<TPosition>();
+        if (!position.HasUpdates) return;
         position.LastLocation.X = position.CurrentLocation.X;
         position.LastLocation.Y = position.CurrentLocation.Y;
         position.CurrentLocation.X = position.NextLocation.X;
         position.CurrentLocation.Y = position.NextLocation.Y;
         position.LastOrientation = position.CurrentOrientation;
         position.CurrentOrientation = position.NextOrientation;
-        _world.Publish(new PositionChangeMessage(entity));
+        world.Publish(new PositionChangeMessage(entity));
     }
 }

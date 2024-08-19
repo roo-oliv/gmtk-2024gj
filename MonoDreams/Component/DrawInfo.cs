@@ -4,14 +4,14 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace MonoDreams.Component;
 
-public readonly struct DrawInfo(Texture2D spriteSheet, Point? size = null, Rectangle? source = null, Color? color = null, Enum layer = null, NinePatchInfo? ninePatchInfo = null)
+public class DrawInfo(Texture2D spriteSheet, Point? size = null, Rectangle? source = null, Color? color = null, Enum layer = null, NinePatchInfo? ninePatchInfo = null)
 {
-    public Texture2D SpriteSheet { get; } = spriteSheet;
-    public Point Size { get; } = size ?? spriteSheet.Bounds.Size;
-    public Rectangle Source { get; } = source ?? spriteSheet.Bounds;
-    public Color Color { get; } = color ?? Color.White;
-    public Enum Layer { get; } = layer;
-    public NinePatchInfo? NinePatchInfo { get; } = ninePatchInfo;
+    public Texture2D SpriteSheet = spriteSheet;
+    public Point Size = size ?? spriteSheet.Bounds.Size;
+    public Rectangle Source = source ?? spriteSheet.Bounds;
+    public Color Color = color ?? Color.White;
+    public Enum Layer = layer;
+    public NinePatchInfo? NinePatchInfo = ninePatchInfo;
 }
 
 public readonly struct NinePatchInfo(

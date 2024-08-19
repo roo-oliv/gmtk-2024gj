@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/MonoDreams.Scale.csproj": {}
+  },
+  "projects": {
+    "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/MonoDreams.Scale.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/MonoDreams.Scale.csproj",
+        "projectName": "MonoDreams.Scale",
+        "projectPath": "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/MonoDreams.Scale.csproj",
+        "packagesPath": "/Users/rodrigooliveira/.nuget/packages/",
+        "outputPath": "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigooliveira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams/MonoDreams.csproj": {
+                "projectPath": "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams/MonoDreams.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Facebook.Yoga": {
+              "target": "Package",
+              "version": "[1.5.0-pre1, )"
+            },
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Extended.Content.Pipeline": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.ImGuiNet": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/8.0.1/libexec/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams/MonoDreams.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams/MonoDreams.csproj",
+        "projectName": "MonoDreams",
+        "projectPath": "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams/MonoDreams.csproj",
+        "packagesPath": "/Users/rodrigooliveira/.nuget/packages/",
+        "outputPath": "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rodrigooliveira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5105"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "true",
+          "nuGetLockFilePath": ""
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DefaultEcs": {
+              "target": "Package",
+              "version": "[0.17.2, )"
+            },
+            "DotNet.ReproducibleBuilds": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Facebook.Yoga": {
+              "target": "Package",
+              "version": "[1.5.0-pre1, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1-*, )"
+            },
+            "MinVer": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Extended.Content.Pipeline": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.ImGuiNet": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "SpriteFontPlus": {
+              "target": "Package",
+              "version": "[0.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/8.0.1/libexec/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/buttons/Small Square Buttons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/buttons/Square Buttons 19x26.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/buttons/Square Buttons 26x19.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/buttons/Square Buttons 26x26.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Characters/Basic Charakter Actions.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Characters/Basic Charakter Spritesheet.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Characters/Egg_And_Nest.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Characters/Free Chicken Sprites.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Characters/Free Cow Sprites.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Characters/Tools.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Dialouge UI/dialog box big.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Dialouge UI/dialog box character finished talking click to continue indicator - spritesheet .xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Dialouge UI/dialog box medium.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Dialouge UI/dialog box small.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Dialouge UI/dialog box.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Dialouge UI/Emotes/Teemo Basic emote animations sprite sheet.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Dialouge UI/Premade dialog box  big.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Dialouge UI/Premade dialog box medium.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Dialouge UI/Premade dialog box small.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Effects/MultiTextureEffect.glsl
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Fonts/Kaph Regular White 80px Stroke Black 4px fnt.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Fonts/Kaph Regular White 80px Stroke Black 4px.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Fonts/Kaph-Regular-fnt.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Fonts/Kaph-Regular.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Icons/All Icons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Icons/special icons/Small Happines-Sadness icons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Icons/special icons/Special Icons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Icons/white icons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Mouse sprites/Catpaw holding Mouse icon.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Mouse sprites/Catpaw Mouse icon.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Mouse sprites/Catpaw pointing Mouse icon.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Mouse sprites/Triangle Mouse icon 1.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Mouse sprites/Triangle Mouse icon 2.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Mouse sprites/Triangle Mouse icon 3.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Basic_Furniture.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Basic_Grass_Biom_things.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Basic_Plants.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Basic_tools_and_meterials.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Chest.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Egg_item.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Free_Chicken_House.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Paths.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Simple_Milk_and_grass_item.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Objects/Wood_Bridge.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Setting menu.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Sprite sheet for Basic Pack.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Sprout Lands color pallet/Sprout Lands defautlt palette snip.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Sprout Lands color pallet/Sprout Lands defautlt palette.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/square.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Tilesets/Bitmask references 1.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Tilesets/Bitmask references 2.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Tilesets/Bitmask references gif.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Tilesets/Fences.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Tilesets/Grass.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Tilesets/Hills.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Tilesets/Tilled_Dirt.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Tilesets/Water.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Tilesets/Wooden House.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/UI Big Play Button.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/UI Settings Buttons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoDreams.Scale
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoDreams.Scale.deps.json
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoDreams.Scale.runtimeconfig.json
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoDreams.Scale.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoDreams.Scale.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Autofac.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Cyotek.Drawing.BitmapFont.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/DefaultEcs.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Facebook.Yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/ImGui.NET.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoGame.Extended.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoGame.Extended.Graphics.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoGame.Extended.Tiled.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoGame.Framework.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/SpriteFontPlus.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/StbImageSharp.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/StbTrueTypeSharp.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/osx/native/libyoga.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x64/lib/netstandard1.0/Facebook.Yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x64/native/yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x64/native/yoga.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x86/lib/netstandard1.0/Facebook.Yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x86/native/yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x86/native/yoga.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win10-arm/lib/netstandard1.0/Facebook.Yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win10-arm/native/yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win10-arm/native/yoga.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win10-x64/lib/netstandard1.0/Facebook.Yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win10-x64/native/yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win10-x64/native/yoga.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win10-x86/lib/netstandard1.0/Facebook.Yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win10-x86/native/yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win10-x86/native/yoga.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win8-arm/lib/netstandard1.0/Facebook.Yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win8-arm/native/yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win8-arm/native/yoga.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/linux-x64/native/libcimgui.so
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/osx/native/libcimgui.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-arm64/native/cimgui.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x64/native/cimgui.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x86/native/cimgui.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/linux-x64/native/libopenal.so.1
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/osx/native/libSDL2.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/osx/native/libopenal.1.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x64/native/SDL2.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x64/native/soft_oal.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x86/native/SDL2.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/runtimes/win-x86/native/soft_oal.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoDreams.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/MonoDreams.xml
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.csproj.AssemblyReference.cache
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.AssemblyInfoInputs.cache
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.AssemblyInfo.cs
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.csproj.CoreCompileInputs.cache
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.sourcelink.json
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.csproj.CopyComplete
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/refint/MonoDreams.Scale.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.genruntimeconfig.cache
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/ref/MonoDreams.Scale.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Monogame.ImGuiNet.dll

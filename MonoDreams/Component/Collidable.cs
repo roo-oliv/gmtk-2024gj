@@ -2,14 +2,8 @@ using Microsoft.Xna.Framework;
 
 namespace MonoDreams.Component;
 
-public struct Collidable
+public class Collidable(Rectangle bounds, bool passive = true)
 {
-    public bool Passive;
-    public Rectangle Bounds;
-
-    public Collidable(Rectangle bounds, bool passive = true)
-    {
-        Passive = passive;
-        Bounds = bounds;
-    }
+    public bool Passive = passive;
+    public Rectangle Bounds = bounds;
 }
