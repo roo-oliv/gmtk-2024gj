@@ -3,6 +3,7 @@ using DefaultEcs.System;
 using DefaultEcs.Threading;
 using MonoDreams.Component;
 using MonoDreams.Scale.Component;
+using MonoDreams.Scale.Util;
 using MonoDreams.State;
 
 namespace MonoDreams.Scale.System;
@@ -18,7 +19,8 @@ public class PlayerMovementSystem<TDynamicBody, TPlayerInput, TMovementControlle
 {
     private const int JumpGravity = 3500;
     private const int JumpVelocity = -1100;
-    private const int MaxWalkVelocity = 500;
+    private const int JumpHVelocity = 589;
+    private const int MaxWalkVelocity = 350;
     public int WorldGravity = worldGravity;
 
     protected override void Update(GameState state, in Entity entity)
@@ -27,7 +29,6 @@ public class PlayerMovementSystem<TDynamicBody, TPlayerInput, TMovementControlle
         var dynamicBody = entity.Get<TDynamicBody>();
         var playerInput = entity.Get<TPlayerInput>();
         var movementController = entity.Get<TMovementController>();
-        var playerState = entity.Get<PlayerState>();
 
         if (playerInput.Left.JustActivated) position.NextOrientation = Orientation.Left;
         else if (playerInput.Right.JustActivated) position.NextOrientation = Orientation.Right;
@@ -46,15 +47,28 @@ public class PlayerMovementSystem<TDynamicBody, TPlayerInput, TMovementControlle
             else if (position.LastOrientation is Orientation.Right) movementController.Velocity.X += MaxWalkVelocity;
         }
 
-        if (dynamicBody.IsRiding && playerInput.Jump.JustActivated && playerState.Grabbing.entity is null)
+        if ((dynamicBody.IsRiding || dynamicBody.WasRidingGracePeriod > 0) && playerInput.Jump.JustActivated)
         {
+            if (dynamicBody.IsSliding || dynamicBody.WasSlidingGracePeriod > 0)
+            {
+                movementController.Velocity.X = dynamicBody.SlidingSide == TouchingSide.Left ? -JumpHVelocity : JumpHVelocity;
+                movementController.FreezeHVelocity = (0.21f, movementController.Velocity.X);
+            }
+
+            var playerState = entity.Get<PlayerState>();
             movementController.Velocity.Y = JumpVelocity;
             dynamicBody.IsJumping = true;
             dynamicBody.IsRiding = false;
+            dynamicBody.IsSliding = false;
+            playerState.Movement = MovementState.Jumping;
+            playerState.Grabbing = (null, null);
+            playerState.Riding = null;
             dynamicBody.Gravity = JumpGravity;
         }
         else if (dynamicBody.IsJumping && !playerInput.Jump.Active)
         {
+            var playerState = entity.Get<PlayerState>();
+            playerState.Movement = MovementState.Falling;
             dynamicBody.IsJumping = false;
             dynamicBody.Gravity = WorldGravity;
         }

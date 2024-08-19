@@ -35,10 +35,14 @@ public sealed class RidingSystem : AEntitySetSystem<GameState>
         var playerInput = player.Get<PlayerInput>();
         var playerBody = player.Get<DynamicBody>();
         var playerMovementController = player.Get<MovementController>();
-        playerState.Grabbing = (null, null);
-        var playerMovement = MovementState.Idle;
-        playerBody.IsRiding = false;
-        playerBody.IsSliding = false;
+        if (!playerInput.Grab.Active)
+        {
+            playerState.Movement = playerBody.IsSliding ? MovementState.Falling : MovementState.Idle;
+            playerState.Grabbing = (null, null);
+            playerBody.IsRiding = false;
+            playerBody.IsSliding = false;
+        }
+
         foreach (var touch in _touches)
         {
             if (playerInput.Grab.Active)
@@ -57,16 +61,18 @@ public sealed class RidingSystem : AEntitySetSystem<GameState>
                     break;
                 case TouchingSide.Left or TouchingSide.Right:
                 {
+                    playerBody.IsRiding = true;
+                    playerState.Riding = touch.TouchingEntity;
                     playerBody.IsSliding = true;
+                    playerBody.SlidingSide = touch.Side;
                     if (playerState.Grabbing.entity != null)
                     {
-                        playerMovement = MovementState.Climbing;
+                        playerState.Movement = MovementState.Climbing;
                     }
                     break;
                 }
             }
         }
-        playerState.Movement = playerMovement;
         _touches.Clear();
     }
 }

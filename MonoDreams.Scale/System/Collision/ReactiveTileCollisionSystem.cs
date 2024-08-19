@@ -14,7 +14,7 @@ public class ReactiveTileCollisionSystem : ISystem<GameState>
     private readonly List<CollisionMessage> _collisions;
     private readonly List<CollisionMessage> _lastTileCollisions;
     private readonly List<(CollisionMessage collision, TouchingSide? side)> _lastScaled;
-    private const int ScalingSpeed = 35;
+    private const int ScalingSpeed = 20;
         
     public ReactiveTileCollisionSystem(World world)
     {
@@ -77,9 +77,6 @@ public class ReactiveTileCollisionSystem : ISystem<GameState>
             reactiveTile.IsActivated = true;
             drawInfo.Color = Tile.ActiveReactiveColor;
             _lastTileCollisions.Add(collision);
-            
-            var playerInput = player.Get<PlayerInput>();
-            if (!playerInput.Jump.Active) continue;
             var tilePosition = tile.Get<Position>();
             var playerPosition = player.Get<Position>();
             var collidable = tile.Get<Collidable>();
@@ -87,20 +84,20 @@ public class ReactiveTileCollisionSystem : ISystem<GameState>
             {
                 case TouchingSide.Left:
                     tilePosition.NextLocation.X -= ScalingSpeed;
+                    collidable.Bounds.Width += ScalingSpeed;
                     playerPosition.NextLocation.X = tilePosition.NextLocation.X - 22;
                     playerPosition.CurrentLocation.X = playerPosition.NextLocation.X;
-                    collidable.Bounds.Width += ScalingSpeed;
                     break;
                 case TouchingSide.Right:
-                    playerPosition.NextLocation.X = tilePosition.NextLocation.X + 22;
-                    playerPosition.CurrentLocation.X = playerPosition.NextLocation.X;
                     collidable.Bounds.Width += ScalingSpeed;
+                    playerPosition.NextLocation.X = tilePosition.NextLocation.X + collidable.Bounds.Width;
+                    playerPosition.CurrentLocation.X = playerPosition.NextLocation.X;
                     break;
                 case TouchingSide.Top:
                     tilePosition.NextLocation.Y -= ScalingSpeed;
+                    collidable.Bounds.Height += ScalingSpeed;
                     playerPosition.NextLocation.Y = tilePosition.NextLocation.Y - 22;
                     playerPosition.CurrentLocation.Y = playerPosition.NextLocation.Y;
-                    collidable.Bounds.Height += ScalingSpeed;
                     break;
                 default:
                     continue;

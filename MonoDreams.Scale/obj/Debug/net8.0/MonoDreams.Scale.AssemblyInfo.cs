@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonoDreams.Scale")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4b57ff1569122d66184cb4ae1519255573c8a71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abcc50eabd34c82a3e9bc8a04fcc9d9a4f631d0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonoDreams.Scale")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonoDreams.Scale")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

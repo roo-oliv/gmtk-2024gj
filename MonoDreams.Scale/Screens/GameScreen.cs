@@ -9,6 +9,7 @@ using MonoDreams.Component;
 using MonoDreams.Extensions;
 using MonoDreams.Objects.UI;
 using MonoDreams.Renderer;
+using MonoDreams.Scale.Component;
 using MonoDreams.Scale.Objects;
 using MonoDreams.Scale.System;
 using MonoDreams.Scale.System.Collision;

@@ -15,12 +15,14 @@ public class DynamicBodySystem<TDynamicBody, TMovementController, TPosition, TPl
     where TPlayerInput : PlayerInput
 {
     private const int MaxFallVelocity = 8000;
-    private const int SlidingVelocity = 100;
+    private const int SlidingVelocity = 50;
     public int WorldGravity = worldGravity;
 
     protected override void Update(GameState state, in Entity entity)
     {
         var dynamicBody = entity.Get<TDynamicBody>();
+        if (dynamicBody.WasRidingGracePeriod > 0) dynamicBody.WasRidingGracePeriod -= state.Time;
+        if (dynamicBody.WasSlidingGracePeriod > 0) dynamicBody.WasSlidingGracePeriod -= state.Time;
         var position = entity.Get<TPosition>();
         var movementController = entity.Get<TMovementController>();
         // var playerInput = entity.Get<TPlayerInput>();
@@ -40,6 +42,11 @@ public class DynamicBodySystem<TDynamicBody, TMovementController, TPosition, TPl
 
     private static void ResolveMovement(TPosition position, TMovementController movement, in GameState state)
     {
+        if (movement.FreezeHVelocity.time > 0)
+        {
+            movement.FreezeHVelocity.time -= state.Time;
+            movement.Velocity.X = movement.FreezeHVelocity.velocity;
+        }
         position.NextLocation = position.CurrentLocation + movement.Velocity * state.Time;  // S_1 = S_0 + V * t
         movement.Clear();
     }

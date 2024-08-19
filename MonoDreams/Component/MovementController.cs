@@ -5,6 +5,7 @@ namespace MonoDreams.Component;
 public class MovementController
 {
     public Vector2 Velocity;
+    public (float time, float velocity) FreezeHVelocity = (0, 0);
 
     public MovementController()
     {
