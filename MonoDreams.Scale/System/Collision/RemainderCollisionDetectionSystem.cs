@@ -3,6 +3,7 @@ using DefaultEcs.System;
 using DefaultEcs.Threading;
 using Microsoft.Xna.Framework;
 using MonoDreams.Component;
+using MonoDreams.Scale.Component;
 using MonoDreams.Scale.Message;
 using MonoDreams.State;
 
@@ -42,7 +43,8 @@ public sealed class RemainderCollisionDetectionSystem(World world, IParallelRunn
                 continue;
             }
 
-            _world.Publish(new DeathMessage());
+            if (target.Has<Objective>()) _world.Publish(new FinishLevelMessage());
+            else _world.Publish(new DeathMessage());
         }
     }
         

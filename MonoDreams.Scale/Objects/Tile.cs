@@ -9,19 +9,45 @@ namespace MonoDreams.Scale.Objects;
 public class Tile
 {
     public static Color DefaultColor = new(32, 40, 51);
-    public static Color DefaultReactiveColor = new(32, 46, 51);
-    public static Color ActiveReactiveColor = new(32, 51, 49);
+    public static Color DefaultReactiveColor = Color.Aquamarine;
+    public static Color ActiveReactiveColor = Color.MediumAquamarine;
+    public static Color DeadlyColor = Color.OrangeRed;
+    public static Color ObjectiveColor = Color.Gold;
     
-    public static Entity Create(World world, Texture2D texture, Vector2 position, Point size, bool reactive = false, Enum? drawLayer = null)
+    public static Entity Create(World world, Texture2D texture, Vector2 position, Point size, TileType type = TileType.Default, Enum? drawLayer = null)
     {
         var entity = world.CreateEntity();
         entity.Set(new Position(position));
         entity.Set(new Collidable( new Rectangle(Point.Zero, size)));
-        entity.Set(new DrawInfo(texture, size, color: reactive ? DefaultReactiveColor : DefaultColor, layer: drawLayer));
-        if (reactive)
+        var color = type switch
         {
-            entity.Set(new ReactiveTile());
+            TileType.Default => DefaultColor,
+            TileType.Reactive => DefaultReactiveColor,
+            TileType.Deadly => DeadlyColor,
+            TileType.Objective => ObjectiveColor,
+            _ => DefaultColor
+        };
+        entity.Set(new DrawInfo(texture, size, color: color, layer: drawLayer));
+        switch (type)
+        {
+            case TileType.Reactive:
+                entity.Set(new ReactiveTile());
+                break;
+            case TileType.Deadly:
+                entity.Set(new InstantDeath());
+                break;
+            case TileType.Objective:
+                entity.Set(new Objective());
+                break;
         }
         return entity;
     }
+}
+
+public enum TileType
+{
+    Default,
+    Reactive,
+    Deadly,
+    Objective
 }

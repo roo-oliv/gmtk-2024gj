@@ -60,9 +60,10 @@ public class CollisionResolutionSystem<TCollidable, TPosition, TDynamicBody> : I
         var targetRect = new Rectangle(targetBounds.Location + targetPosition.CurrentLocation.ToPoint(), targetBounds.Size);
         if (!CollisionDetectionSystem.DynamicRectVsRect(dynamicRect, displacement, targetRect,
                 out var contactPoint, out var contactNormal, out var contactTime)) return;
-        if (contactNormal == Vector2.Zero || collidingEntity.Has<InstantDeath>())
+        if (contactNormal == Vector2.Zero || collidingEntity.Has<InstantDeath>() || collidingEntity.Has<Objective>())
         {
-            _world.Publish(new DeathMessage());
+            if (collidingEntity.Has<Objective>()) _world.Publish(new FinishLevelMessage());
+            else _world.Publish(new DeathMessage());
             return;
         }
         
