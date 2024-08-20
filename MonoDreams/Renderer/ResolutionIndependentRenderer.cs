@@ -16,8 +16,8 @@ public class ResolutionIndependentRenderer
     public ResolutionIndependentRenderer(Game game)
     {
         _game = game;
-        VirtualWidth = 3840;
-        VirtualHeight = 2160;
+        VirtualWidth = 800;
+        VirtualHeight = 600;
 
         ScreenWidth = 800;
         ScreenHeight = 600;
@@ -99,11 +99,18 @@ public class ResolutionIndependentRenderer
         var width = ScreenWidth;
         var height = (int)(width / targetAspectRatio + .5f);
 
-        if (height > ScreenHeight)
+        // if (height > ScreenHeight)
+        // {
+        //     height = ScreenHeight;
+        //     // PillarBox
+        //     width = (int)(height * targetAspectRatio + .5f);
+        // }
+        
+        // setup based on width actually
+        if (width > ScreenWidth)
         {
-            height = ScreenHeight;
-            // PillarBox
-            width = (int)(height * targetAspectRatio + .5f);
+            width = ScreenWidth;
+            height = (int)(width / targetAspectRatio + .5f);
         }
 
         // set up the new viewport centered in the backbuffer

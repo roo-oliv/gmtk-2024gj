@@ -3,6 +3,7 @@ using DefaultEcs.System;
 using DefaultEcs.Threading;
 using MonoDreams.Component;
 using MonoDreams.Scale.Component;
+using MonoDreams.Scale.Util;
 using MonoDreams.State;
 
 namespace MonoDreams.Scale.System;
@@ -14,10 +15,6 @@ public class DynamicBodySystem<TDynamicBody, TMovementController, TPosition, TPl
     where TPosition : Position
     where TPlayerInput : PlayerInput
 {
-    private const int MaxFallVelocity = 8000;
-    private const int SlidingVelocity = 50;
-    public int WorldGravity = worldGravity;
-
     protected override void Update(GameState state, in Entity entity)
     {
         var dynamicBody = entity.Get<TDynamicBody>();
@@ -28,15 +25,15 @@ public class DynamicBodySystem<TDynamicBody, TMovementController, TPosition, TPl
         // var playerInput = entity.Get<TPlayerInput>();
         if (movementController is not null) ResolveMovement(position, movementController, state);
         // if (playerInput is not null && dynamicBody.IsRiding && playerInput.Grab.Active) return;
-        if (dynamicBody.IsSliding)
+        var playerState = entity.Get<PlayerState>();
+        if (dynamicBody.IsSliding && playerState?.Movement != MovementState.Jumping)
         {
-            var playerState = entity.Get<PlayerState>();
-            if (playerState.Grabbing.entity is not null) return;
-            position.NextLocation.Y = position.CurrentLocation.Y + SlidingVelocity * state.Time;
+            if (playerState?.Grabbing.entity is not null) return;
+            position.NextLocation.Y = position.CurrentLocation.Y + Constants.SlidingVelocity * state.Time;
         }
         else
         {
-            ResolveGravity(position, dynamicBody, state);
+            ResolveGravity(position, dynamicBody, playerState, state);
         }
     }
 
@@ -51,7 +48,7 @@ public class DynamicBodySystem<TDynamicBody, TMovementController, TPosition, TPl
         movement.Clear();
     }
 
-    private void ResolveGravity(TPosition position, TDynamicBody body, in GameState state)
+    private void ResolveGravity(TPosition position, TDynamicBody body, PlayerState? playerState, in GameState state)
     {
         var lastYVelocity = 0f;
         if (state.LastTime != 0)
@@ -66,16 +63,17 @@ public class DynamicBodySystem<TDynamicBody, TMovementController, TPosition, TPl
         }
 
         var gravityVelocity = lastYVelocity + body.Gravity * state.Time;  // V_1 = V_0 + a * t
-        yVelocity = Math.Min(yVelocity + gravityVelocity, MaxFallVelocity);
+        yVelocity = Math.Min(yVelocity + gravityVelocity, Constants.MaxFallVelocity);
         position.NextLocation.Y = position.CurrentLocation.Y + yVelocity * state.Time;  // S_1 = S_0 + V * t
-        if (!body.IsJumping && body.Gravity != WorldGravity)
+        if (!body.IsJumping && body.Gravity != Constants.WorldGravity)
         {
-            body.Gravity = WorldGravity;
+            body.Gravity = Constants.WorldGravity;
         }
         else if (body.IsJumping && yVelocity > 0)
         {
             body.IsJumping = false;
-            body.Gravity = WorldGravity;
+            body.Gravity = Constants.WorldGravity;
+            if (playerState is not null) playerState.Movement = MovementState.Falling;
         }
     }
 }

@@ -42,7 +42,11 @@ public sealed class RidingSystem : AEntitySetSystem<GameState>
         if (!playerInput.Grab.Active ||
             !IsTouching(playerPosition.CurrentLocation, playerCollidable.Bounds.Size, tilePosition?.CurrentLocation, tileCollidable?.Bounds.Size))
         {
-            playerState.Movement = playerBody.IsSliding ? MovementState.Falling : MovementState.Idle;
+            if (playerState.Movement != MovementState.Jumping)
+            {
+                playerState.Movement = playerBody.IsSliding ? MovementState.Falling : MovementState.Idle;
+            }
+
             playerState.Grabbing = (null, null);
             playerBody.IsRiding = false;
             playerBody.IsSliding = false;

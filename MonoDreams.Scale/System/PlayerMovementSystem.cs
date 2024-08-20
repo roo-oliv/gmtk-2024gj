@@ -17,12 +17,6 @@ public class PlayerMovementSystem<TDynamicBody, TPlayerInput, TMovementControlle
     where TPlayerInput : PlayerInput
     where TMovementController : MovementController
 {
-    private const int JumpGravity = 3500;
-    private const int JumpVelocity = -1100;
-    private const int JumpHVelocity = 589;
-    private const int MaxWalkVelocity = 350;
-    public int WorldGravity = worldGravity;
-
     protected override void Update(GameState state, in Entity entity)
     {
         var position = entity.Get<Position>();
@@ -38,39 +32,40 @@ public class PlayerMovementSystem<TDynamicBody, TPlayerInput, TMovementControlle
         if (playerInput.Left.Active)
         {
             if (position.CurrentOrientation is Orientation.Right) position.NextOrientation = Orientation.Left;
-            else if (position.LastOrientation is Orientation.Left) movementController.Velocity.X -= MaxWalkVelocity;
+            else if (position.LastOrientation is Orientation.Left) movementController.Velocity.X -= Constants.MaxWalkVelocity;
         }
 
         if (playerInput.Right.Active)
         {
             if (position.CurrentOrientation is Orientation.Left) position.NextOrientation = Orientation.Right;
-            else if (position.LastOrientation is Orientation.Right) movementController.Velocity.X += MaxWalkVelocity;
+            else if (position.LastOrientation is Orientation.Right) movementController.Velocity.X += Constants.MaxWalkVelocity;
         }
 
         if ((dynamicBody.IsRiding || dynamicBody.WasRidingGracePeriod > 0) && playerInput.Jump.JustActivated)
         {
+            dynamicBody.Gravity = Constants.JumpGravity;
             if (dynamicBody.IsSliding || dynamicBody.WasSlidingGracePeriod > 0)
             {
-                movementController.Velocity.X = dynamicBody.SlidingSide == TouchingSide.Left ? -JumpHVelocity : JumpHVelocity;
-                movementController.FreezeHVelocity = (0.21f, movementController.Velocity.X);
+                movementController.Velocity.X = dynamicBody.SlidingSide == TouchingSide.Left ? -Constants.JumpHVelocity : Constants.JumpHVelocity;
+                movementController.FreezeHVelocity = (0.19f, movementController.Velocity.X);
+                dynamicBody.Gravity = Constants.WorldGravity;
             }
 
             var playerState = entity.Get<PlayerState>();
-            movementController.Velocity.Y = JumpVelocity;
+            movementController.Velocity.Y = Constants.JumpVelocity;
             dynamicBody.IsJumping = true;
             dynamicBody.IsRiding = false;
             dynamicBody.IsSliding = false;
             playerState.Movement = MovementState.Jumping;
             playerState.Grabbing = (null, null);
             playerState.Riding = null;
-            dynamicBody.Gravity = JumpGravity;
         }
         else if (dynamicBody.IsJumping && !playerInput.Jump.Active)
         {
             var playerState = entity.Get<PlayerState>();
             playerState.Movement = MovementState.Falling;
             dynamicBody.IsJumping = false;
-            dynamicBody.Gravity = WorldGravity;
+            dynamicBody.Gravity = Constants.WorldGravity;
         }
     }
 }

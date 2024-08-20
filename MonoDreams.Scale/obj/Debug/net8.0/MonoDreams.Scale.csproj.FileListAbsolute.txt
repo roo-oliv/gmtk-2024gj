@@ -122,3 +122,7 @@
 /Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.pdb
 /Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/MonoDreams.Scale.genruntimeconfig.cache
 /Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Debug/net8.0/ref/MonoDreams.Scale.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Fonts/Kaph-14px-white-fnt.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Fonts/Kaph-14px-white.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Fonts/pixel-8px-white-fnt.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Debug/net8.0/Content/Fonts/pixel-8px-white.xnb

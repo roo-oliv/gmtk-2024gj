@@ -44,8 +44,8 @@ public class Game1 : Game
     
     private void InitializeRenderer(int realScreenWidth, int realScreenHeight)
     {
-        _renderer.VirtualWidth = realScreenWidth;
-        _renderer.VirtualHeight = realScreenHeight;
+        _renderer.VirtualWidth = 800;
+        _renderer.VirtualHeight = 600;
         _renderer.ScreenWidth = realScreenWidth;
         _renderer.ScreenHeight = realScreenHeight;
         _renderer.BackgroundColor = new Color(68, 76, 86);

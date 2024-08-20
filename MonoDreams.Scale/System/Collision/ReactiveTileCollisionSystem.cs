@@ -14,7 +14,6 @@ public class ReactiveTileCollisionSystem : AEntitySetSystem<GameState>
     private readonly List<CollisionMessage> _collisions;
     private Entity? _lastActiveTile;
     private TouchingSide? _lastTouchingSide;
-    private const int ScalingSpeed = 20;
         
     public ReactiveTileCollisionSystem(World world) : base(world.GetEntities().With<PlayerState>().AsSet())
     {
@@ -32,13 +31,13 @@ public class ReactiveTileCollisionSystem : AEntitySetSystem<GameState>
         switch (_lastTouchingSide)
         {
             case TouchingSide.Left:
-                playerPosition.CurrentLocation.X = playerPosition.NextLocation.X + ScalingSpeed;
+                playerPosition.CurrentLocation.X = playerPosition.NextLocation.X + Constants.ScalingSpeed;
                 break;
             case TouchingSide.Right:
-                playerPosition.CurrentLocation.X = playerPosition.NextLocation.X - ScalingSpeed;
+                playerPosition.CurrentLocation.X = playerPosition.NextLocation.X - Constants.ScalingSpeed;
                 break;
             case TouchingSide.Top:
-                playerPosition.CurrentLocation.Y = playerPosition.NextLocation.Y + ScalingSpeed;
+                playerPosition.CurrentLocation.Y = playerPosition.NextLocation.Y + Constants.ScalingSpeed;
                 break;
             case null:
                 break;
@@ -65,19 +64,19 @@ public class ReactiveTileCollisionSystem : AEntitySetSystem<GameState>
         switch (playerState.Grabbing.side)
         {
             case TouchingSide.Left:
-                tilePosition.NextLocation.X -= ScalingSpeed;
-                collidable.Bounds.Width += ScalingSpeed;
+                tilePosition.NextLocation.X -= Constants.ScalingSpeed;
+                collidable.Bounds.Width += Constants.ScalingSpeed;
                 playerPosition.NextLocation.X = tilePosition.NextLocation.X - 22;
                 playerPosition.CurrentLocation.X = playerPosition.NextLocation.X;
                 break;
             case TouchingSide.Right:
-                collidable.Bounds.Width += ScalingSpeed;
+                collidable.Bounds.Width += Constants.ScalingSpeed;
                 playerPosition.NextLocation.X = tilePosition.NextLocation.X + collidable.Bounds.Width;
                 playerPosition.CurrentLocation.X = playerPosition.NextLocation.X;
                 break;
             case TouchingSide.Top:
-                tilePosition.NextLocation.Y -= ScalingSpeed;
-                collidable.Bounds.Height += ScalingSpeed;
+                tilePosition.NextLocation.Y -= Constants.ScalingSpeed;
+                collidable.Bounds.Height += Constants.ScalingSpeed;
                 playerPosition.NextLocation.Y = tilePosition.NextLocation.Y - 22;
                 playerPosition.CurrentLocation.Y = playerPosition.NextLocation.Y;
                 break;

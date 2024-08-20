@@ -4,7 +4,8 @@ public enum DrawLayer
 {
     Cursor,
     Buttons,
-    Player,
+    Text,
     Tiles,
+    Player,
     Background,
 }

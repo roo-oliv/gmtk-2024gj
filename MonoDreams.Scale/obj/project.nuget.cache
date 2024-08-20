@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Pwft+anLRv7aGA9PdPGR+BrCetGi+3QYjecbj5pAEq+J/UPQi3LBXvVBcVP4lCWRDAlvqRzPPmOcOCiSAw5sjA==",
+  "dgSpecHash": "+lx7SdXDmzA=",
   "success": true,
   "projectFilePath": "/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/MonoDreams.Scale.csproj",
   "expectedPackageFiles": [
@@ -22,10 +22,7 @@
     "/Users/rodrigooliveira/.nuget/packages/stbtruetypesharp/1.24.7/stbtruetypesharp.1.24.7.nupkg.sha512",
     "/Users/rodrigooliveira/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
     "/Users/rodrigooliveira/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
-    "/Users/rodrigooliveira/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
-    "/Users/rodrigooliveira/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.1/microsoft.netcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
-    "/Users/rodrigooliveira/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.1/microsoft.aspnetcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
-    "/Users/rodrigooliveira/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.1/microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+    "/Users/rodrigooliveira/.nuget/packages/system.runtime.compilerservices.unsafe/4.4.0/system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
   ],
   "logs": []
 }

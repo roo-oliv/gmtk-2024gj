@@ -1,0 +1,278 @@
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/buttons/Small Square Buttons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/buttons/Square Buttons 19x26.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/buttons/Square Buttons 26x19.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/buttons/Square Buttons 26x26.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Characters/Basic Charakter Actions.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Characters/Basic Charakter Spritesheet.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Characters/Egg_And_Nest.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Characters/Free Chicken Sprites.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Characters/Free Cow Sprites.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Characters/Tools.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Dialouge UI/dialog box big.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Dialouge UI/dialog box character finished talking click to continue indicator - spritesheet .xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Dialouge UI/dialog box medium.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Dialouge UI/dialog box small.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Dialouge UI/dialog box.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Dialouge UI/Emotes/Teemo Basic emote animations sprite sheet.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Dialouge UI/Premade dialog box  big.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Dialouge UI/Premade dialog box medium.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Dialouge UI/Premade dialog box small.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Effects/MultiTextureEffect.glsl
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Fonts/Kaph Regular White 80px Stroke Black 4px fnt.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Fonts/Kaph Regular White 80px Stroke Black 4px.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Fonts/Kaph-Regular-fnt.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Fonts/Kaph-Regular.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Icons/All Icons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Icons/special icons/Small Happines-Sadness icons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Icons/special icons/Special Icons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Icons/white icons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Mouse sprites/Catpaw holding Mouse icon.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Mouse sprites/Catpaw Mouse icon.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Mouse sprites/Catpaw pointing Mouse icon.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Mouse sprites/Triangle Mouse icon 1.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Mouse sprites/Triangle Mouse icon 2.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Mouse sprites/Triangle Mouse icon 3.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Basic_Furniture.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Basic_Grass_Biom_things.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Basic_Plants.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Basic_tools_and_meterials.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Chest.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Egg_item.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Free_Chicken_House.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Paths.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Simple_Milk_and_grass_item.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Objects/Wood_Bridge.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Setting menu.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Sprite sheet for Basic Pack.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Sprout Lands color pallet/Sprout Lands defautlt palette snip.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Sprout Lands color pallet/Sprout Lands defautlt palette.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/square.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Tilesets/Bitmask references 1.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Tilesets/Bitmask references 2.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Tilesets/Bitmask references gif.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Tilesets/Fences.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Tilesets/Grass.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Tilesets/Hills.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Tilesets/Tilled_Dirt.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Tilesets/Water.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/Tilesets/Wooden House.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/UI Big Play Button.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Content/UI Settings Buttons.xnb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoDreams.Scale
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoDreams.Scale.deps.json
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoDreams.Scale.runtimeconfig.json
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoDreams.Scale.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoDreams.Scale.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Autofac.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Cyotek.Drawing.BitmapFont.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/DefaultEcs.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Facebook.Yoga.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/ImGui.NET.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoGame.Extended.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoGame.Extended.Graphics.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoGame.Extended.Tiled.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoGame.Framework.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Newtonsoft.Json.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/SpriteFontPlus.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/StbImageSharp.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/StbTrueTypeSharp.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libyoga.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libcimgui.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libSDL2.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libopenal.1.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Microsoft.CSharp.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Microsoft.VisualBasic.Core.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Microsoft.VisualBasic.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Microsoft.Win32.Primitives.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/Microsoft.Win32.Registry.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.AppContext.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Buffers.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Collections.Concurrent.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Collections.Immutable.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Collections.NonGeneric.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Collections.Specialized.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Collections.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ComponentModel.Annotations.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ComponentModel.DataAnnotations.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ComponentModel.Primitives.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ComponentModel.TypeConverter.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ComponentModel.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Configuration.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Console.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Core.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Data.Common.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Data.DataSetExtensions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Data.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.Contracts.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.Debug.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.Process.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.StackTrace.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.Tools.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.TraceSource.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Diagnostics.Tracing.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Drawing.Primitives.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Drawing.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Dynamic.Runtime.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Formats.Asn1.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Formats.Tar.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Globalization.Calendars.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Globalization.Extensions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Globalization.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.Compression.Brotli.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.Compression.FileSystem.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.Compression.ZipFile.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.Compression.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.FileSystem.AccessControl.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.FileSystem.Primitives.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.FileSystem.Watcher.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.FileSystem.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.IsolatedStorage.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.MemoryMappedFiles.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.Pipes.AccessControl.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.Pipes.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.IO.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Linq.Expressions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Linq.Parallel.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Linq.Queryable.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Linq.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Memory.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.Http.Json.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.Http.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.HttpListener.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.Mail.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.NameResolution.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.NetworkInformation.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.Ping.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.Primitives.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.Quic.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.Requests.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.Security.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.ServicePoint.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.Sockets.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.WebClient.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.WebHeaderCollection.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.WebProxy.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.WebSockets.Client.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.WebSockets.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Net.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Numerics.Vectors.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Numerics.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ObjectModel.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Private.CoreLib.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Private.DataContractSerialization.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Private.Uri.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Private.Xml.Linq.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Private.Xml.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Reflection.DispatchProxy.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Reflection.Emit.Lightweight.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Reflection.Emit.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Reflection.Extensions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Reflection.Metadata.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Reflection.Primitives.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Reflection.TypeExtensions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Reflection.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Resources.Reader.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Resources.ResourceManager.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Resources.Writer.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Extensions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Handles.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.InteropServices.JavaScript.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.InteropServices.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Intrinsics.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Loader.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Numerics.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Serialization.Formatters.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Serialization.Json.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Serialization.Primitives.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Serialization.Xml.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.Serialization.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Runtime.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.AccessControl.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Claims.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Cryptography.Algorithms.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Cryptography.Cng.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Cryptography.Csp.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Cryptography.Encoding.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Cryptography.Primitives.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Cryptography.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Principal.Windows.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.Principal.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.SecureString.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Security.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ServiceModel.Web.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ServiceProcess.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Text.Encoding.CodePages.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Text.Encoding.Extensions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Text.Encoding.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Text.Encodings.Web.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Text.Json.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Text.RegularExpressions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.Channels.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.Overlapped.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.Tasks.Dataflow.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.Tasks.Extensions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.Tasks.Parallel.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.Tasks.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.Thread.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.ThreadPool.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.Timer.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Threading.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Transactions.Local.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Transactions.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.ValueTuple.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Web.HttpUtility.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Web.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Windows.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Xml.Linq.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Xml.ReaderWriter.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Xml.Serialization.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Xml.XDocument.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Xml.XPath.XDocument.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Xml.XPath.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Xml.XmlDocument.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Xml.XmlSerializer.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.Xml.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/System.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/WindowsBase.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/mscorlib.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/netstandard.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/createdump
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libSystem.Globalization.Native.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libSystem.IO.Compression.Native.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libSystem.Native.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libSystem.Net.Security.Native.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libSystem.Security.Cryptography.Native.OpenSsl.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libclrgc.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libclrjit.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libcoreclr.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libhostfxr.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libhostpolicy.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libmscordaccore.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/libmscordbi.dylib
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoDreams.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/bin/Release/net8.0/osx-x64/MonoDreams.xml
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.csproj.AssemblyReference.cache
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.AssemblyInfoInputs.cache
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.AssemblyInfo.cs
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.csproj.CoreCompileInputs.cache
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.sourcelink.json
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.csproj.CopyComplete
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/refint/MonoDreams.Scale.dll
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.pdb
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/MonoDreams.Scale.genruntimeconfig.cache
+/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/obj/Release/net8.0/osx-x64/ref/MonoDreams.Scale.dll

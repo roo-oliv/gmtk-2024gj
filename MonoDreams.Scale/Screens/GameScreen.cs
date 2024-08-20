@@ -48,6 +48,8 @@ public class GameScreen : IGameScreen
         _renderer = renderer;
         _parallelRunner = parallelRunner;
         _spriteBatch = spriteBatch;
+
+        camera.Position = new Vector2(440, 340);
         
         World = new World();
         LevelLoader = new LevelLoader(World, content, renderer);

@@ -25,8 +25,12 @@
     <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Dialouge UI/Premade dialog box small.png</File>
     <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Fonts/Kaph Regular White 80px Stroke Black 4px.fnt</File>
     <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Fonts/Kaph Regular White 80px Stroke Black 4px.png</File>
+    <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Fonts/Kaph-14px-white.fnt</File>
+    <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Fonts/Kaph-14px-white.png</File>
     <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Fonts/Kaph-Regular.fnt</File>
     <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Fonts/Kaph-Regular.png</File>
+    <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Fonts/pixel-8px-white.fnt</File>
+    <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Fonts/pixel-8px-white.png</File>
     <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Icons/All Icons.png</File>
     <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Icons/special icons/Small Happines-Sadness icons.png</File>
     <File>/Users/rodrigooliveira/git/allrod5/gmtk-2024gj/MonoDreams.Scale/Content/Icons/special icons/Special Icons.png</File>
@@ -86,7 +90,11 @@
     <File xsi:nil="true" />
     <File>Fonts/Kaph Regular White 80px Stroke Black 4px fnt.fnt</File>
     <File xsi:nil="true" />
+    <File>Fonts/Kaph-14px-white-fnt.fnt</File>
+    <File xsi:nil="true" />
     <File>Fonts/Kaph-Regular-fnt.fnt</File>
+    <File xsi:nil="true" />
+    <File>Fonts/pixel-8px-white-fnt.fnt</File>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
